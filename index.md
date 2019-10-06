@@ -10,5 +10,8 @@
 
 ## Topics
 ### Programming environment
-### Shell, pipes and devices, awk, sed, grep
-### Code samples
+### Shell, Pipes (hidden/named) and devices, awk, sed, grep
+### System Daemons, Services, Networking, Protocols
+### System Authentication, Filesharing, Anti-Malware/Virus
+### Utility code samples
+### ...
