@@ -2,7 +2,7 @@
 <i>work in progress</i>
 
 ## Unix
-* [The UNIX® Standard]https://www.opengroup.org/membership/forums/platform/unix)
+* [The UNIX® Standard](https://www.opengroup.org/membership/forums/platform/unix)
 * [The Open Group official register of UNIX&reg; Certified Products](https://www.opengroup.org/openbrand/register/)
 ## Linux
 * [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
