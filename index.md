@@ -22,5 +22,5 @@
 ### System Daemons, Services, Networking, Protocols
 ### System Authentication, Filesharing, Anti-Malware/Virus
 ### Utility code samples
-* [Face Detection Visualization](https://github.com/realBjornRoden/cognition/blob/master/amp/README.md) Cognitive AI
+* [Face Detection Visualization with Cognitive AI](https://github.com/realBjornRoden/cognition/blob/master/amp/README.md)
 ### ...
