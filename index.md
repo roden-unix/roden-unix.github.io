@@ -13,8 +13,8 @@
 * [IBM VM Restart Technology with GDR to reduce cost, improve service and mitigate risk](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/IBM_VM_restart_technology_to_reduce_cost_improve_service_and_mitigate_risk)
 
 ## Systems Technical Analysis topics
-* [IBM AIX SNAP splitter](https://github.com/realBjornRoden/snapaix)
-* [IBM AIX TOPAS CSV splitter]()
+* [IBM AIX SNAP splitter](https://github.com/realBjornRoden/unix/snapaix)
+* [IBM AIX TOPAS CSV splitter]
 
 ## Programming topics
 ### Language Samples
