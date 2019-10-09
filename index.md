@@ -15,10 +15,12 @@
 ## Systems Technical Analysis topics
 * [IBM AIX SNAP splitter](https://github.com/realBjornRoden/unix/blob/master/aix/snapaix/)
 * [IBM AIX TOPAS CSV splitter]
+* [System Metrics with Matplotlib & Pandas](https://github.com/realBjornRoden/unix/blob/master/pandas/)
+
 
 ## Programming topics
 ### Language Samples
-* [Hello](https://realbjornroden.github.io/unix/blob/master/hello/)
+* [Hello](https://realbjornroden.github.io/hello/)
 * [Google AMP Preamble](https://github.com/realBjornRoden/AMP/blob/master/README.md)
 
 ### Programming environment
