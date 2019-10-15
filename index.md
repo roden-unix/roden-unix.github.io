@@ -11,6 +11,7 @@
 * [IBM Spectrum Scale cluster filesystem for Resiliency & Concurrent IO](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/IBM_Spectrum_Scale_cluster)
 * [Managing Unplanned Downtime with IBM PowerHA SystemMirror SE 7.2](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/powerha-managing-unplanned-downtime)
 * [IBM VM Restart Technology with GDR to reduce cost, improve service and mitigate risk](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/IBM_VM_restart_technology_to_reduce_cost_improve_service_and_mitigate_risk)
+* [Exploring Views on Data Centre Power Consumption and Server Virtualization](http://lup.lub.lu.se/lupStat/record/1436859)
 
 ## Systems Technical Analysis topics
 * [IBM AIX SNAP splitter](https://github.com/realBjornRoden/unix/blob/master/aix/snapaix/)
