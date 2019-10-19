@@ -15,6 +15,7 @@
 
 ## Systems Technical Analysis topics
 * [IBM AIX SNAP splitter](https://github.com/realBjornRoden/unix/blob/master/aix/snapaix/)
+* [System Tool Output Extraction](https://github.com/realBjornRoden/unix/blob/master/aix/sysdata/)
 * [IBM AIX TOPAS CSV splitter]
 * [Visualizing System Metrics with Matplotlib & Pandas](https://github.com/realBjornRoden/unix/blob/master/pandas/)
 
