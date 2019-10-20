@@ -23,7 +23,7 @@
 
 ## Programming topics
 ### Language Samples
-* [Hello](https://github.com/realBjornRoden/unix/blob/master/hello/)
+* [Hello](https://github.com/realBjornRoden/unix/blob/master/hello/README.md)
 * [Google AMP Preamble](https://github.com/realBjornRoden/AMP/blob/master/README.md)
 
 ### Programming environment
