@@ -14,11 +14,10 @@
 * [Exploring Views on Data Centre Power Consumption and Server Virtualization](http://lup.lub.lu.se/lupStat/record/1436859)
 
 ## Systems Technical Analysis topics
-* [IBM AIX topas (NMON) data parser](https://github.com/realBjornRoden/unix/blob/master/aix/tagsplit/)
-* [IBM AIX snap command data parser](https://github.com/realBjornRoden/unix/blob/master/aix/snapaix/)
-* [IBM AIX system command data parser](https://github.com/realBjornRoden/unix/blob/master/aix/sysdata/)
-* [Visualizing System Metrics - w/Matplotlib & Pandas](https://github.com/realBjornRoden/unix/blob/master/pandas/)
-
+* [IBM AIX topas (NMON) data parser - w/POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/aix/tagsplit/)
+* [IBM AIX snap command data parser - w/POSIX Shell & AWK](https://github.com/realBjornRoden/unix/blob/master/aix/snapaix/)
+* [IBM AIX system command data parser - w/TextFSM & Python](https://github.com/realBjornRoden/unix/blob/master/aix/sysdata/)
+* [Visualizing System Metrics - w/Matplotlib, Pandas & Python](https://github.com/realBjornRoden/unix/blob/master/pandas/)
 
 ## Programming topics
 ### Language Samples
