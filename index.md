@@ -18,7 +18,7 @@
 * [IBM AIX snap command data parser - w/AWK & POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/aix/snapaix/README.md)
 * [IBM AIX system command data parser - w/TextFSM & Python](https://github.com/realBjornRoden/unix/blob/master/aix/sysdata/README.md)
 * [Visualizing System Metrics - w/Gnuplot & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
-* Visualizing System Metrics - w/Graphviz & POSIX Shell
+* [Visualizing System Metrics - w/DOT, AWk & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/parsein/README.md)
 * [Visualizing System Metrics - w/Matplotlib, Pandas & Python](https://github.com/realBjornRoden/unix/blob/master/pandas/README.md)
 
 ## Programming topics
