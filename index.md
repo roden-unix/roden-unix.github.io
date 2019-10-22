@@ -34,6 +34,6 @@
 ### System Authentication, Filesharing, Anti-Malware/Virus
 ### Utility code samples
 * [Face Detection Visualization with Cognitive AI](https://github.com/realBjornRoden/cognition/blob/master/amp/)
-* [Declarative data entry window - w/JSON, Python & Tkinter](https://github.com/realBjornRoden/unix/blob/master/gui/)
+* [Declarative data entry window - w/JSON, Python & Tkinter](https://github.com/realBjornRoden/unix/blob/master/gui/README.md)
 * [Digesting Tripit.com traveler trip data to analyze - w/API, Python, XML & POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/tripit/README.md)
 ### ...
