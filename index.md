@@ -6,6 +6,7 @@
 * [The Open Group official register of UNIX&reg; Certified Products](https://www.opengroup.org/openbrand/register/)
 * [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
 * [Unix-like](https://en.wikipedia.org/wiki/Unix-like)
+* [UNIX-based](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SystemTechnology/SystemTechnology.html)
 
 ## Systems Engineering topics
 * [IBM Spectrum Scale cluster filesystem for Resiliency & Concurrent IO](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/IBM_Spectrum_Scale_cluster)
