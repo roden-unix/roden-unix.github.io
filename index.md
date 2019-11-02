@@ -15,9 +15,9 @@
 * [Exploring Views on Data Centre Power Consumption and Server Virtualization](http://lup.lub.lu.se/lupStat/record/1436859)
 
 ## Systems Technical Analysis topics
-* [IBM AIX topas (aka NMON) data parser - w/POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/aix/tagsplit/README.md)
-* [IBM AIX snap command data parser - w/AWK & POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/aix/snapaix/README.md)
-* [IBM AIX system command data parser - w/TextFSM & Python](https://github.com/realBjornRoden/unix/blob/master/aix/sysdata/README.md)
+* [IBM AIX topas (aka NMON) data parser - w/POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/aix-unix-linux/tagsplit/README.md)
+* [IBM AIX snap command data parser - w/AWK & POSIX Shell](https://github.com/realBjornRoden/unix/blob/master/aix-unix-linux/snapaix/README.md)
+* [IBM AIX system command data parser - w/TextFSM & Python](https://github.com/realBjornRoden/unix/blob/master/aix-unix-linux/sysdata/README.md)
 * [Visualizing System Metrics - w/Gnuplot & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/tagplot/README.md)
 * [Visualizing System Metrics - w/Matplotlib, Pandas & Python](https://github.com/realBjornRoden/unix/blob/master/pandas/README.md)
 * [Visualizing System Configuration IBM PowerVM SEA - w/DOT, AWK & POSIX Shell](https://github.com/realBjornRoden/unix/tree/master/parsein/sea/README.md)
