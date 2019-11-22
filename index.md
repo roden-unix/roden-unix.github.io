@@ -27,9 +27,11 @@
 ### Language Samples
 * [Hello](https://github.com/realBjornRoden/unix/blob/master/hello/README.md)
 * [Google AMP Preamble](https://github.com/realBjornRoden/AMP/blob/master/README.md)
+* [SQL](https://github.com/realBjornRoden/unix/blob/master/sql/)
+* [!SQL]()
 * [C++](https://github.com/realBjornRoden/unix/blob/master/c++/)
 * [Python](https://github.com/realBjornRoden/unix/blob/master/python/)
-* [SQL](https://github.com/realBjornRoden/unix/blob/master/sql/)
+* [Shell]()
 
 ### Programming environment
 ### Shell, Pipes (hidden/named) and devices, awk, sed, grep
