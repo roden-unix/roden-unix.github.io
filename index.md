@@ -5,7 +5,7 @@
 * [The UNIX® Standard](https://www.opengroup.org/membership/forums/platform/unix)
 * [The Open Group official register of UNIX&reg; Certified Products](https://www.opengroup.org/openbrand/register/)
 * [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
-* [Unix-like](https://en.wikipedia.org/wiki/Unix-like)
+* [UNIX-like](https://en.wikipedia.org/wiki/Unix-like)
 * [UNIX-based](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SystemTechnology/SystemTechnology.html)
 
 ## Systems Engineering topics
