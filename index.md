@@ -34,7 +34,7 @@
 * [Shell]()
 
 ### Programming environment
-### Shell, Pipes (hidden/named) and devices, awk, sed, grep
+### Shell, Pipes (hidden/named) and devices; awk; sed; grep; ...
 * [KSH for Darwin](https://realbjornroden.github.io/unix/)
 
 ### System Daemons, Services, Networking, Protocols
