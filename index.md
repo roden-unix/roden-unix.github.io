@@ -9,9 +9,10 @@
 * [UNIX-based](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SystemTechnology/SystemTechnology.html)
 
 ## Systems Engineering topics
-* [IBM Spectrum Scale cluster filesystem for Resiliency & Concurrent IO](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/IBM_Spectrum_Scale_cluster)
-* [Managing Unplanned Downtime with IBM PowerHA SystemMirror SE 7.2](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/powerha-managing-unplanned-downtime)
-* [IBM VM Restart Technology with GDR to reduce cost, improve service and mitigate risk](https://www.ibm.com/developerworks/community/blogs/05e5b6f0-ad06-4c88-b231-c550178943de/entry/IBM_VM_restart_technology_to_reduce_cost_improve_service_and_mitigate_risk)
+* [IBM Spectrum Scale cluster filesystem for Resiliency & Concurrent IO](https://www.ibm.com/support/pages/ibm-spectrum-scale-cluster-filesystem-resiliency-concurrent-io)
+* [Managing Unplanned Downtime with IBM PowerHA SystemMirror SE 7.2](https://www.ibm.com/support/pages/managing-unplanned-downtime-ibm-powerha-systemmirror-se-72)
+* [IBM VM Restart Technology with GDR to reduce cost, improve service and mitigate risk](https://www.ibm.com/support/pages/ibm-vm-restart-technology-gdr-reduce-cost-improve-service-and-mitigate-risk)
+* [IBM Systems Lab Services - Who do you trust with your IT security?](https://www.ibm.com/blogs/systems/who-do-you-trust-with-your-it-security/)
 * [Exploring Views on Data Centre Power Consumption and Server Virtualization](http://lup.lub.lu.se/lupStat/record/1436859)
 
 ## Systems Technical Analysis topics
