@@ -5,6 +5,7 @@
 * [The UNIX® Standard](https://www.opengroup.org/membership/forums/platform/unix)
 * [The Open Group official register of UNIX&reg; Certified Products](https://www.opengroup.org/openbrand/register/)
 * [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
+* [Technical Report (informative) Conflicts between ISO/IEC 9945 (POSIX) and the Linux Standard Base](https://personal.opengroup.org/~ajosey/tr20-08-2005.txt)<br>
 * [UNIX-like](https://en.wikipedia.org/wiki/Unix-like)
 * [UNIX-based](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SystemTechnology/SystemTechnology.html)
 
