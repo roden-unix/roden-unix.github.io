@@ -28,7 +28,7 @@
 ## Programming topics
 ### Language Samples
 * [Hello](https://github.com/realBjornRoden/unix/blob/master/hello/README.md)
-* [OpenMP](https://github.com/realBjornRoden/unix/blob/master/OpenMP/README.md)
+* [Open Multi-processing (OpenMP) for parallelizing code for symetric mulitprocessing (SMP) shared-memory programming](https://github.com/realBjornRoden/unix/blob/master/OpenMP/README.md)
 * [Message Passing Interface (MPI) for Massively Parallel (MP) High Performance Computing (HPC)](https://github.com/realBjornRoden/unix/blob/master/MPI/README.md)
 * [Google AMP Preamble](https://github.com/realBjornRoden/AMP/blob/master/README.md)
 * [SQL](https://github.com/realBjornRoden/unix/blob/master/sql/)
