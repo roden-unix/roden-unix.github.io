@@ -28,7 +28,7 @@
 ## Programming topics
 ### Language Samples
 * [Hello](https://github.com/realBjornRoden/unix/blob/master/hello/README.md)
-* [OpenMP](https://github.com/realBjornRoden/unix/blob/master/OpenMP)
+* [OpenMP](https://github.com/realBjornRoden/unix/blob/master/OpenMP/README.md)
 * [Google AMP Preamble](https://github.com/realBjornRoden/AMP/blob/master/README.md)
 * [SQL](https://github.com/realBjornRoden/unix/blob/master/sql/)
 * [!SQL]()
